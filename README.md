@@ -1,1 +1,1 @@
-Koding Python dan PLC
+Lampiran Koding Python dan PLC
